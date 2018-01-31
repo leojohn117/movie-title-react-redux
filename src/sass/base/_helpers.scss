@@ -1,0 +1,19 @@
+// -----------------------------------------------------------------------------
+// This file contains CSS helper classes.
+// -----------------------------------------------------------------------------
+
+.clearfix:before,
+.clearfix:after {
+    display: table;
+    content: " ";
+}
+
+.clearfix:after {clear: both;}
+
+.align-left{
+	float: left;
+}
+
+.align-right{
+	float: right;
+}

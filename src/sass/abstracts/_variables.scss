@@ -1,0 +1,29 @@
+// -----------------------------------------------------------------------------
+// This file contains all application-wide SASS variables.
+// -----------------------------------------------------------------------------
+
+// Colours (use semantic colours in selectors)
+$white: #fff;
+$black: #333;
+$grey: #e3e3e3;
+$light-grey: #666;
+$dark-grey:#ccc;
+$border-grey: #EDECEC;
+$red: #f8a188;
+$bright-red:#ff0000;
+$blue: #94bbdf;
+$amber: #ffdc91;
+$green: #c3dc9f;
+$copyright-grey: #575757;
+$light-blue: #008dc8;
+$offwhite-grey: #f6f6f6;
+$header-blue : #00294f;
+
+// Semantic Colours
+$link-selected-color: $light-blue;
+$tab-border: $border-grey;
+$background-colour: $offwhite-grey;
+$input-border: $grey;
+$input-dark-border: $dark-grey;
+$input-colour: $light-grey;
+
